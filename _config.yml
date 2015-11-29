@@ -1,0 +1,28 @@
+name: WuTaoDi
+favicon: null
+layout_spectrum: 0.6385566811077297
+typography_spectrum: 0.7679582093842328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0748992352746427
+  lightness: 0.5422090995125473
+  saturation: 0.7597687167581171
+  rhythmicContrast: 0.5528718172572553
+purpose: []
