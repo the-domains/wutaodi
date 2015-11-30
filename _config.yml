@@ -1,7 +1,7 @@
 name: WuTaoDi
 favicon: null
-layout_spectrum: 0.6385566811077297
-typography_spectrum: 0.7679582093842328
+layout_spectrum: 0.9973
+typography_spectrum: 0.25495
 title: Wu-Tao-Di Academy
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.0748992352746427
+    - '#dadada'
+    - '#b7b7b7'
+    - '#434343'
+    - '#7c7c7c'
+    - '#2a1d14'
+  brandStrength: 0.1875
   lightness: 0.5422090995125473
   saturation: 0.7597687167581171
   rhythmicContrast: 0.5528718172572553
