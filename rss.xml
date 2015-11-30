@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wu-Tao-Di Academy]]></title>
+        <description><![CDATA[Wu-Tao-Di Academy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 00:13:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY]]></title>
+            <description><![CDATA[<article><h1>Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY</h1><p>Wu-Tao-Di is Lexington's first and only complete Chinese culture, martial arts, philosophy, medicine and metaphysics school. We focus on deep Chinese knowledge.</p><img src="https://static.wixstatic.com/media/71302e_97dc332077b945b2ba9956c47804d984.jpg"></article>]]></description>
+            <link>http://www.wutaodi.com/</link>
+            <guid isPermaLink="false">47df4bf8-031d-4758-9786-6a01b45ce9d9</guid>
+            <pubDate>Mon, 30 Nov 2015 00:12:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
