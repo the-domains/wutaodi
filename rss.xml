@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Wu-Tao-Di Academy]]></title>
         <description><![CDATA[Wu-Tao-Di Academy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wutaodi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 00:13:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 00:13:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wutaodi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY]]></title>
+            <description><![CDATA[<article><h1>Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY</h1><p>Wu-Tao-Di is Lexington's first and only complete Chinese culture, martial arts, philosophy, medicine and metaphysics school. We focus on deep Chinese knowledge.</p><img src="https://static.wixstatic.com/media/71302e_97dc332077b945b2ba9956c47804d984.jpg"></article>]]></description>
+            <link>http://www.wutaodi.com/</link>
+            <guid isPermaLink="false">ab3f8108-0ff6-4e04-9876-ae26fce551bf</guid>
+            <pubDate>Mon, 30 Nov 2015 00:12:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY]]></title>
             <description><![CDATA[<article><h1>Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY</h1><p>Wu-Tao-Di is Lexington's first and only complete Chinese culture, martial arts, philosophy, medicine and metaphysics school. We focus on deep Chinese knowledge.</p><img src="https://static.wixstatic.com/media/71302e_97dc332077b945b2ba9956c47804d984.jpg"></article>]]></description>
