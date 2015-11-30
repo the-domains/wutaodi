@@ -11,8 +11,8 @@ description: "Wu-Tao-Di is Lexington's first and only complete Chinese culture, 
 app_links: []
 isBasedOnUrl: 'http://www.wutaodi.com/'
 title: 'Wu-Tao-Di Academy | Complete Tai Chi & Gung Fu Lexington, KY'
-datePublished: '2015-11-30T00:12:27.851Z'
-dateModified: '2015-11-30T00:08:56.034Z'
+datePublished: '2015-11-30T00:12:27.902Z'
+dateModified: '2015-11-30T00:08:18.510Z'
 sourcePath: _posts/2015-11-30-wu-tao-di-academy-or-complete-tai-chi-and-gung-fu-lexington-ky.md
 published: true
 inFeed: true
